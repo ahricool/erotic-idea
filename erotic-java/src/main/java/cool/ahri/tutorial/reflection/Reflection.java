@@ -1,4 +1,4 @@
-package tutorial.reflection;
+package cool.ahri.tutorial.reflection;
 
 /**
  *   反射是为了解决在运行时，在某个实例一无所知的情况下，

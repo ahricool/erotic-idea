@@ -1,4 +1,4 @@
-package tutorial.log;
+package cool.ahri.tutorial.log;
 
 import java.util.logging.Logger;
 

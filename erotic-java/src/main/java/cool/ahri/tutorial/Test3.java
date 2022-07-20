@@ -1,6 +1,4 @@
-package tutorial;
-
-import java.util.ArrayList;
+package cool.ahri.tutorial;
 
 public class Test3 {
 

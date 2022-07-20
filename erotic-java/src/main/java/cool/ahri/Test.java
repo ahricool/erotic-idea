@@ -1,7 +1,7 @@
-import java.util.Date;
+package cool.ahri;
+
 import java.util.HashMap;
 import java.util.Map;
-import org.json.JSONObject;
 
 class A {}
 class B extends A{}

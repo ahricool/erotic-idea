@@ -1,4 +1,4 @@
-package tutorial.log;
+package cool.ahri.tutorial.log;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

@@ -1,3 +1,5 @@
+package cool.ahri;
+
 public class Test2 {
     public static void main(String[] args) {
         try {
